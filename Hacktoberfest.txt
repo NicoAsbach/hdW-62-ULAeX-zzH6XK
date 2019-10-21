@@ -1,1 +1,2 @@
 Dies wurde nicht wegen dem Hacktoberfest gemacht!
+Warum sollte man sowas auch tun?
